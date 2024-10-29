@@ -1,5 +1,8 @@
 # Stargram
 A minimal user authentication system with Next.js and Express.js, including user registration and login functionalities. This project integrates a PostgreSQL database for secure data storage.
+## Gallery
+![](/images/image_1.jpeg)
+![](/images/image_2.jpeg)
 ## Install
 1.
 ```
