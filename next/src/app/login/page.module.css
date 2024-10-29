@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    gap: 30px;
+  }
+
+  .inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }

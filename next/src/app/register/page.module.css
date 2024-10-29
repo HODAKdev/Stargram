@@ -1,0 +1,52 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+  .inputs {
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+    width: 100%;
+}
+
+.text {
+    font-size: 16px;
+    text-align: center;
+    font-weight: 100;
+    width: 256px;
+}
+
+.highlight {
+    color: #FF2400;
+    cursor: pointer;
+    font-weight: 100;
+}
+
+.group {
+    padding: 15px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.firstGroup {
+    gap: 4px;
+}
+
+.lastGroup {
+    gap: 17px;
+}
+
+.warn {
+    outline: 1px solid #FF2400;
+    padding: 15px;
+    width: 254px;
+    font-size: 16px;
+    background: #ff22003b;
+    margin-bottom: 24px;
+}
